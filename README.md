@@ -1,4 +1,6 @@
-# fastai-shell
+# fastai-shell (updated)
+
+None: Arunoda's workflow has been updated to work on GCP (Sep 2019).
 
 A workflow to setup and use [fastai](https://github.com/fastai/fastai) on Google Cloud Platfrom
 
