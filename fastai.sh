@@ -2,7 +2,7 @@
 
 set -e
 
-FASTAI_SHELL_VERSION="0.2.0"
+FASTAI_SHELL_VERSION="0.3.0"
 
 if [ -f ~/.fastai-zone ]; then
   current_zone=$(cat ~/.fastai-zone)
