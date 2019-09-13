@@ -27,7 +27,7 @@ Go to your project and open the Google Cloud shell as shown below:
 Then run the following commands:
 
 ```
-curl -L https://git.io/fpeMb | bash
+curl -L https://git.io/JempD | bash 
 source ~/.bashrc
 ```
 
@@ -126,7 +126,7 @@ This is a project that is constantly updating with your feedback.<br/>
 At anytime, you can run the following command to get the latest version:
 
 ```
-curl -L https://git.io/fpeMb | bash
+curl -L https://git.io/JempD | bash 
 ```
 
 You can check the installed version by typing: `fastai version`
