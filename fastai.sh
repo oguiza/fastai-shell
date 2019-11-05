@@ -7,7 +7,7 @@ FASTAI_SHELL_VERSION="0.3.0"
 if [ -f ~/.fastai-zone ]; then
   current_zone=$(cat ~/.fastai-zone)
 else
-  current_zone='us-central1-c'
+  current_zone='europe-west1-d'
 fi
 
 declare -A GPUS_IN_ZONES=(
